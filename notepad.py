@@ -26,7 +26,7 @@ print(-2 == -3)
 
 # Operadores de comparação
 
-print("and, or e not")
+print("\n\nand, or e not")
 
 # and: Isso e Aquilo.Todos os blocos precisam ser True
 # not: Negação
@@ -36,3 +36,13 @@ print(True and False)
 print(False and False)
 print(not (False and True))
 print(not False and True)
+
+# Funções
+print("\n\nFunções")
+# São trechos de codigos em que damos um nome a
+# esse trecho e executa ele quando for pertinente
+
+def mostrar_num():
+    num = 1
+    print(num)
+mostrar_num()
