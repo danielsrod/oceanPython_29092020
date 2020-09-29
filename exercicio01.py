@@ -1,4 +1,4 @@
-texto = input("Digite qualquer coisa").lower()
+texto = input("Digite qualquer coisa: ").lower().strip()
 
 if texto == "medieval":
     print("Espada")
