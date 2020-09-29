@@ -28,7 +28,7 @@ print(-2 == -3)
 
 print("and, or e not")
 
-# and: Todos os blocos precisam ser True
+# and: Isso e Aquilo.Todos os blocos precisam ser True
 # not: Negação
 # or : Isso ou Aquilo. Verdadeiro de um dos lados já satisfaz
 print(True and True)
