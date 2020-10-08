@@ -1,7 +1,7 @@
 from time import sleep
 
-z = 10
-while(z >= 0):
+salve = 10
+while(salve >= 0):
     sleep(1)
-    print(z)
-    z = z - 1
+    print(salve)
+    salve = salve - 1
